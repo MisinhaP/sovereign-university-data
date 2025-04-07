@@ -29,7 +29,7 @@ Nie potrzebujesz żadnej konkretnej wiedzy, aby rozpocząć. W rzeczywistości p
 
 Bitcoin to rewolucja technologiczna i monetarna, która może sprawić, że zakwestionujemy nasze relacje z pieniędzmi i społeczeństwem. W rzeczywistości Bitcoin (określany jako BTC) jest **neutralną** i **zdecentralizowaną** walutą, co oznacza, że nie jest kontrolowany przez żaden podmiot ani instytucję. Jest to innowacja, która wykracza poza zwykłą "walutę internetową": jest to zarówno protokół komputerowy (Bitcoin), jak i jednostka monetarna (bitcoin).
 
-Protokół wykorzystuje podstawowe technologie, takie jak kryptografia, komunikacja sieciowa i słynny "blockchain", podczas gdy jednostka bitcoin służy jako waluta niezbędna do prawidłowego funkcjonowania tego protokołu. W życiu codziennym Salwadorczycy i bitcoinerzy na całym świecie używają waluty bitcoin do kupowania i sprzedawania towarów i usług, polegając na tej technologii, aby uczynić swoje życie lepszym.
+Podstawą protokołu są technologie, takie jak kryptografia, komunikacja sieciowa i słynny "blockchain", podczas gdy jednostka bitcoin służy jako waluta niezbędna do prawidłowego funkcjonowania tego protokołu. W życiu codziennym Salwadorczycy i bitcoinerzy na całym świecie używają waluty bitcoin do kupowania i sprzedawania towarów i usług, polegając na tej technologii, aby uczynić swoje życie lepszym.
 
 ### Kompleksowy, ale przystępny program nauczania
 
@@ -263,9 +263,9 @@ W rzeczywistości Bitcoin przedstawia się jako odpowiedź na te wyzwania system
 
 Innym powodem, dla którego Bitcoin zyskał uwagę, jest pojawienie się cyfrowych walut banków centralnych (CBDC), co wydaje się nieuniknione. Ta nowa forma pieniądza rozwinęłaby bardziej centralnie planowaną gospodarkę i mogłaby zarówno ograniczyć wolność finansową jednostek, jak i ułatwić autorytarne nadużycia.
 
-Możemy zakończyć ten rozdział cytatem z laureata Nagrody Nobla F. A. Hayeka z 1984 roku:
+Możemy zakończyć ten rozdział cytatem z laureata Nagrody Nobla F. A. Hayek'a z 1984 roku:
 
-> "Nie wierzę, byśmy kiedykolwiek mieli dobre pieniądze, zanim nie wyrwiemy ich z rąk rządu. Jeśli nie możemy wyrwać ich z rąk rządu przemocą, jedyne, co możemy zrobić, to w jakiś przebiegły lub okrężny sposób wprowadzić coś, czego nie będą w stanie powstrzymać"
+> "Nie wierzę, że kiedykolwiek będziemy mieć dobre pieniądze, jeśli nie wyrwiemy ich z rąk rządu. Jeśli nie możemy wyrwać ich z rąk rządu przemocą, jedyne, co możemy zrobić, to w jakiś przebiegły lub okrężny sposób wprowadzić coś, czego nie będą w stanie powstrzymać"
 Aby dowiedzieć się więcej o błędach ekonomicznych i wolności, zapraszamy do zapoznania się z naszym kursem ECO 102, który śledzi życie i idee Frédérica Bastiata, XIX-wiecznego francuskiego myśliciela, który z pewnością doceniłby pojawienie się Bitcoina:
 
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
@@ -284,7 +284,7 @@ Aby zrozumieć wpływ inflacji na oszczędności, musimy wziąć pod uwagę ró�
 - Przy 7% tracisz połowę tej kwoty w ciągu 10 lat.
 - Przy 20% tracisz prawie połowę w ciągu 3 lat.
 
-Kiedy pojawia się hiperinflacja, nie mówimy już o 20% rocznie, ale raczej o 20% miesięcznie lub, w szczytowym momencie, nawet dziennie. Doświadczenie 100% inflacji dziennie w ciągu trzech dni jest realistycznym scenariuszem, który miał i nadal ma miejsce w naszym świecie.
+Kiedy pojawia się hiperinflacja, nie mówimy już o 20% rocznie, ale raczej o 20% miesięcznie lub, w szczytowym momencie, nawet DZIENNIE. Doświadczenie 100% inflacji dziennie w ciągu trzech dni jest realistycznym scenariuszem, który miał i nadal ma miejsce w naszym świecie.
 
 Kluczowe jest zrozumienie, że hiperinflacja nie jest dziełem przypadku, kapitalizmu czy politycznych ataków przeciwników. Hiperinflacja jest bezpośrednią konsekwencją złych decyzji monetarnych podejmowanych przez bankierów centralnych i polityków. Jej następstwa mają wpływ na każdego obywatela, a nawet na następne pokolenia. Zachęcamy do poświęcenia pięciu minut na przeczytanie poniższej tabeli, aby w pełni uświadomić sobie rzeczywisty wpływ tego zjawiska (kurs ECO204 bardziej szczegółowo omawia ten temat). Jak widać, żaden kraj ani waluta nie są potencjalnie bezpieczne.
 
@@ -327,7 +327,7 @@ Rozwiązanie kryzysu hiperinflacyjnego często wymaga radykalnych zmian, takich 
 
 Jeden z najbardziej uderzających przykładów hiperinflacji miał miejsce w Niemieckiej Republice Weimarskiej po I wojnie światowej.
 
-Niemcy pożyczyły ogromne sumy pieniędzy na sfinansowanie wojny. Jednak Niemcy nie tylko je straciły, ale musiały zapłacić miliardy dolarów reparacji. Miesiącem o najwyższej stopie inflacji był październik 1923 r., osiągając szczyt na poziomie 29 500%, co odpowiadało stopie inflacji wynoszącej 20,9% dziennie. Ceny podwajały się co 3,7 dnia!
+Niemcy pożyczyły ogromne sumy pieniędzy na sfinansowanie wojny. Jednak Niemcy nie tylko je straciły, ale musiały zapłacić miliardy dolarów reparacji. Miesiącem o najwyższej stopie inflacji był październik 1923 r., osiągając szczyt na poziomie 29,500%, co odpowiadało stopie inflacji wynoszącej 20,9% dziennie. Ceny podwajały się co 3,7 dnia!
 
 Niemiecka waluta stała się tak bezużyteczna, że niektórzy obywatele woleli palić swoje papierowe pieniądze zamiast drewna, ponieważ było to tańsze. Mówi się nawet, że w restauracjach kelnerzy musieli ogłaszać ceny menu co 30 minut, aby uwzględnić inflację.
 
@@ -353,7 +353,7 @@ Do 2000 r. Zimbabwe było samowystarczalne w zakresie prawie wszystkich swoich p
 
 W 1997 r. wartość dolara Zimbabwe spadła o ponad 72% po tym, jak rząd zgodził się wypłacić weteranom wojennym rekompensatę w wysokości 450 milionów dolarów amerykańskich. Ponieważ rząd nie miał takiej kwoty w swoich zapasach, uciekł się do uruchomienia prasy drukarskiej. W 2005 r. inflacja osiągnęła 586%, ale szczyt przypadł na połowę listopada 2008 r., a jej tempo szacuje się na 79 600 000 000% miesięcznie.
 
-Już w czerwcu 2007 roku rząd zareagował, wprowadzając kontrolę cen, ale działanie to nie miało żadnego wpływu na gospodarkę. Sklepy zostały dosłownie "splądrowane", a kupcy nie mieli już środków na uzupełnienie zapasów.
+Już w czerwcu 2007 roku rząd zareagował, wprowadzając kontrolę cen, ale działanie to nie miało żadnego wpływu na gospodarkę. Sklepy były dosłownie plądrowane, a kupcy nie mieli już środków na uzupełnianie zapasów.
 
 W kwietniu 2009 r. minister finansów ogłosił zawieszenie dolara zimbabweńskiego i zezwolił na używanie innych walut obcych w handlu. Wszystkie konta bankowe, emerytury i instytucje finansowe z dnia na dzień straciły swoje salda.
 
