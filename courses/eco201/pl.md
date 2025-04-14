@@ -7,7 +7,6 @@ objectives:
   - Znaczenie twardej waluty
   - Dlaczego i w jaki sposób powstają cykle gospodarcze?
   - Dlaczego bankierzy centralni oszaleli?
-„k”
 ---
 
 # Podróż w głąb ekonomii
