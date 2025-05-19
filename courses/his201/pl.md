@@ -1,5 +1,5 @@
 ---
-name: Historia powstania Bitcoin
+name: Historia powstania Bitcoina
 goal: Poznaj historię powstania, uruchomienia i wczesnego rozwoju Bitcoin.
 objectives: 
 
