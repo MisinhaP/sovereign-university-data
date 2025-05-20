@@ -1,5 +1,5 @@
 ---
-name: Historia powstania Bitcoin
+name: Historia powstania Bitcoina, is this the correct place?
 goal: Poznaj historię powstania, uruchomienia i wczesnego rozwoju Bitcoin.
 objectives: 
 
